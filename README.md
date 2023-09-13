@@ -107,7 +107,7 @@ The major frameworks/libraries used to bootstrap this project are:
 * [![Python-shield][python.org]][Python-url]
 * [![Bash][gnu.org/software/bash/]][Bash-url]
 
-* [![General badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white.svg))](https://shields.io/)
+* [![General badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white.svg)](https://shields.io/)
 
 
 
