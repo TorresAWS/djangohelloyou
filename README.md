@@ -104,24 +104,9 @@ Use the `BLANK_README.md` to get started.
 
 The major frameworks/libraries used to bootstrap this project are:
 
-* [![Python-shield][python.org]][Python-url]
-* [![Bash][gnu.org/software/bash/]][Bash-url]
-
-* [![Phython](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white.svg)](https://shields.io/)
-
-
-
-* [![Next][Next.js]][Next-url]
-* [![React][React.js]][React-url]
-* [![React](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white.svg)][React-url]
-* [![Vue][Vue.js]][Vue-url]
-* [![Angular][Angular.io]][Angular-url]
-* [![Svelte][Svelte.dev]][Svelte-url]
-* [![Laravel][Laravel.com]][Laravel-url]
-* [![Bootstrap][Bootstrap.com]][Bootstrap-url]
-* [![JQuery][JQuery.com]][JQuery-url]
-
-
+* [![Python](https://img.shields.io/badge/GNU%20Bash-4EAA25.svg?style=for-the-badge&logo=GNU-Bash&logoColor=white.svg)][Python-url]
+* [![Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25.svg?style=for-the-badge&logo=GNU-Bash&logoColor=white.svg)][Bash-url]
+ 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
