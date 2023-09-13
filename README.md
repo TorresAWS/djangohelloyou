@@ -113,7 +113,7 @@ The major frameworks/libraries used to bootstrap this project are:
 
 * [![Next][Next.js]][Next-url]
 * [![React][React.js]][React-url]
-* [![React](https://img.shields.io/badge/Preact-673AB8.svg?style=for-the-badge&logo=Preact&logoColor=white.svg)][React-url]
+* [![React](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white.svg)][React-url]
 * [![Vue][Vue.js]][Vue-url]
 * [![Angular][Angular.io]][Angular-url]
 * [![Svelte][Svelte.dev]][Svelte-url]
