@@ -104,7 +104,7 @@ Use the `BLANK_README.md` to get started.
 
 The major frameworks/libraries used to bootstrap this project are:
 
-* [![Python](https://img.shields.io/badge/GNU%20Bash-4EAA25.svg?style=for-the-badge&logo=GNU-Bash&logoColor=white.svg)][Python-url]
+* [![Python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white.svg)][Python-url]
 * [![Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25.svg?style=for-the-badge&logo=GNU-Bash&logoColor=white.svg)][Bash-url]
  
 
