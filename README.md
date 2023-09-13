@@ -239,7 +239,7 @@ Use this space to list resources you find helpful and would like to give credit 
 
 
 [license-shield]: https://img.shields.io/github/license/TorresAWS/djangohelloyou.svg?style=for-the-badge
-[license-url]: https://github.com/TorresAWS/djangohelloyou/blob/master/LICENSE.txt
+[license-url]: https://github.com/TorresAWS/djangohelloyou/blob/main/LICENSE.txt
 
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/othneildrew
