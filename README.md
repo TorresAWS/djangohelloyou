@@ -96,7 +96,7 @@ Use the `BLANK_README.md` to get started.
 
 The major frameworks/libraries used to bootstrap this project are:
 
-##[![Python](https://img.shields.io/badge/-Python-black.svg?style=for-the-badge&logo=python&colorB=555)][Python-url]
+<!--[![Python](https://img.shields.io/badge/-Python-black.svg?style=for-the-badge&logo=python&colorB=555)][Python-url]-->
 [![Bash][Bash.sh][Bash-url]
 [![Next][Next.js]][Next-url]
 
