@@ -199,9 +199,9 @@ Project Link: [https://github.com/TorresAWS/djangohelloyou](https://github.com/T
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-<!-- 
+ 
 <!-- ACKNOWLEDGMENTS -->
-## Acknowledgments
+<!--## Acknowledgments
 
 Use this space to list resources you find helpful and would like to give credit to. I've included a few of my favorites to kick things off!
 
