@@ -96,7 +96,7 @@ Use the `BLANK_README.md` to get started.
 
 The major frameworks/libraries used to bootstrap this project are:
 
-[![Python](https://img.shields.io/badge/-Python-black.svg?style=for-the-badge&logo=python&colorB=555)][Python-url]
+##[![Python](https://img.shields.io/badge/-Python-black.svg?style=for-the-badge&logo=python&colorB=555)][Python-url]
 [![Bash][Bash.sh][Bash-url]
 [![Next][Next.js]][Next-url]
 
@@ -246,8 +246,10 @@ Use this space to list resources you find helpful and would like to give credit 
 [linkedin-url]: https://linkedin.com/in/othneildrew
 [product-screenshot]: images/screenshot.png
 [Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
+
 [Bash.sh]: https://img.shields.io/badge/-GNU%20Bash-black.svg?style=for-the-badge&logo=GNU-Bash&colorB=555
 [Bash-url]: https://www.gnu.org/software/bash
+
 [Next-url]: https://nextjs.org/
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
 [React-url]: https://reactjs.org/
