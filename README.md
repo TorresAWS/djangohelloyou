@@ -232,24 +232,18 @@ Use this space to list resources you find helpful and would like to give credit 
 [contributors-url]: https://github.com/TorresAWS/djangohelloyou/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/TorresAWS/djangohelloyou.svg?style=for-the-badge
 [forks-url]: https://github.com/TorresAWS/djangohelloyou/forks
-
 [stars-shield]: https://img.shields.io/github/stars/TorresAWS/djangohelloyou.svg?style=for-the-badge
 [stars-url]: https://github.com/TorresAWS/djangohelloyou/stargazers
 [issues-shield]: https://img.shields.io/github/issues/TorresAWS/djangohelloyou.svg?style=for-the-badge
 [issues-url]: https://github.com/TorresAWS/djangohelloyou/issues
-
-
 [license-shield]: https://img.shields.io/github/license/TorresAWS/djangohelloyou.svg?style=for-the-badge
 [license-url]: https://github.com/TorresAWS/djangohelloyou/blob/main/LICENSE.txt
-
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/othneildrew
 [product-screenshot]: images/screenshot.png
 [Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
-
 [Bash.sh]: https://img.shields.io/badge/-GNU%20Bash-black.svg?style=for-the-badge&logo=GNU-Bash&colorB=555
 [Bash-url]: https://www.gnu.org/software/bash
-
 [Next-url]: https://nextjs.org/
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
 [React-url]: https://reactjs.org/
