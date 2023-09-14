@@ -101,6 +101,7 @@ The major frameworks/libraries used to bootstrap this project are:
 [![Python][Python]][Python-url]
 [![Ansible][Ansible]][Ansible-url]
 [![Vagrant][Vagrant]][Vagrant-url]
+[![AWS][AWS]][AWS-url]
 
  
 
@@ -253,6 +254,8 @@ Use this space to list resources you find helpful and would like to give credit 
 [Ansible-url]: https://www.ansible.com/
 [Vagrant]: https://img.shields.io/badge/-Vagrant-black.svg?style=for-the-badge&logo=vagrant&colorB=555
 [Vagrant-url]: https://www.vagrantup.com/
+[AWS]: https://img.shields.io/badge/-Amazon%20AWS-black.svg?style=for-the-badge&logo=Amazon-AWS&colorB=555
+[AWS-url]: https://aws.amazon.com/
 
 
 [Next-url]: https://nextjs.org/
