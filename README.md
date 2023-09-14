@@ -1,16 +1,6 @@
  <a name="readme-top"></a>
 
-
-
-
 <!-- PROJECT SHIELDS -->
-<!--
-*** I'm using markdown "reference style" links for readability.
-*** Reference links are enclosed in brackets [ ] instead of parentheses ( ).
-*** See the bottom of this document for the declaration of the reference variables
-*** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
-*** https://www.markdownguide.org/basic-syntax/#reference-style-links
--->
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
@@ -22,23 +12,23 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
+  <a href="https://github.com/TorresAWS/djangohelloyou">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Best-README-Template</h3>
+  <h3 align="center">djangohelloyou</h3>
 
   <p align="center">
     An awesome README template to jumpstart your projects!
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/TorresAWS/djangohelloyou"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
+    <a href="https://github.com/TorresAWS/djangohelloyou">View Demo</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Report Bug</a>
+    <a href="https://github.com/TorresAWS/djangohelloyou/issues">Report Bug</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Request Feature</a>
+    <a href="https://github.com/TorresAWS/djangohelloyou/issues">Request Feature</a>
   </p>
 </div>
 
@@ -75,7 +65,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+<!-- [![Product Name Screen Shot][product-screenshot]](https://example.com)-->
 
 There are many great README templates available on GitHub; however, I didn't find one that really suited my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
 
@@ -96,7 +86,6 @@ Use the `BLANK_README.md` to get started.
 
 The major frameworks/libraries used to bootstrap this project are:
 
-<!--[![Python](https://img.shields.io/badge/-Python-black.svg?style=for-the-badge&logo=python&colorB=555)][Python-url]-->
 [![Bash][Bash.sh]][Bash-url]
 [![Python][Python]][Python-url]
 [![Ansible][Ansible]][Ansible-url]
@@ -167,7 +156,7 @@ _For more examples, please refer to the [Documentation](https://example.com)_
     - [ ] Chinese
     - [ ] Spanish
 
-See the [open issues](https://github.com/othneildrew/Best-README-Template/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/TorresAWS/djangohelloyou/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -243,6 +232,7 @@ Use this space to list resources you find helpful and would like to give credit 
 [license-url]: https://github.com/TorresAWS/djangohelloyou/blob/main/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/othneildrew
+
 [product-screenshot]: images/screenshot.png
 [Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
 
