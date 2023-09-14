@@ -98,7 +98,7 @@ The major frameworks/libraries used to bootstrap this project are:
 
 <!--[![Python](https://img.shields.io/badge/-Python-black.svg?style=for-the-badge&logo=python&colorB=555)][Python-url]-->
 [![Bash][Bash.sh]][Bash-url]
-[![Next][Next.js]][Next-url]
+[![Python][Python]][Python-url]
 
  
 
@@ -244,6 +244,10 @@ Use this space to list resources you find helpful and would like to give credit 
 [Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
 [Bash.sh]: https://img.shields.io/badge/-GNU%20Bash-black.svg?style=for-the-badge&logo=GNU-Bash&colorB=555
 [Bash-url]: https://www.gnu.org/software/bash
+[Python]: https://img.shields.io/badge/-Python-black.svg?style=for-the-badge&logo=python&colorB=555
+[Python-url]: https://www.python.org/
+
+
 [Next-url]: https://nextjs.org/
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
 [React-url]: https://reactjs.org/
