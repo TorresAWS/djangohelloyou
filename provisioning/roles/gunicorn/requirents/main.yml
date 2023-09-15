@@ -1,0 +1,4 @@
+#---    
+#- src: https://github.com/ansible-collections/community.mysql.git 
+#  scm: git
+#  version: 3.6.0 

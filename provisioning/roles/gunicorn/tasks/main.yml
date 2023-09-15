@@ -1,0 +1,41 @@
+---
+###INSTALL ANY PYTHON VERSION
+
+- name: Install required packages
+  apt: name={{item}} state=present
+  with_items:
+    - git 
+    - python3-pip 
+    - systemd 
+#    - wget 
+#    - python-pip 
+#    - python-virtualenv 
+#    -python-distutils-extra
+
+- shell: "python --version"
+  register: python_installed
+- name: print a registered variable
+  debug: var=python_installed.stderr_lines
+
+- name: Install bottle for Python 3.3 specifically, using the 'pip3.3' executable
+  ansible.builtin.pip:
+    name: django==2.0 
+    executable: pip3
+
+
+- name: Clone a repo with separate git directory
+  ansible.builtin.git:
+    repo: https://github.com/TorresAWS/djangohelloyou 
+    dest: /src/djangohelloyou
+    separate_git_dir: /src/djangohelloyou.git
+
+- name: Template a file to /etc/file.conf
+  ansible.builtin.template:
+    src: ./templates/test.service.j2
+    dest: /etc/systemd/system/test.service 
+
+- name: Make sure a service is running
+  systemd:
+    state: started
+    name: test.service 
+

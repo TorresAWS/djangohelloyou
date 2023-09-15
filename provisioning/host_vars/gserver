@@ -1,0 +1,15 @@
+---
+# Variables listed here are applicable to "mysql" roles
+ 
+gserver:
+  mysql_superuser_home: /root
+  user: root
+  old_password: root
+  new_password: password 
+  hosts:
+    - "{{ ansible_hostname }}"
+    - "127.0.0.1"
+    - "::1"
+    - "localhost"
+  privileges: "*.*:ALL,GRANT"
+
