@@ -1,0 +1,7 @@
+---
+ 
+- name: Install Gunicorn 
+  hosts: gserver
+  become: yes
+  roles:
+    - gunicorn 
