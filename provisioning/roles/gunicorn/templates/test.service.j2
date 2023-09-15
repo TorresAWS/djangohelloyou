@@ -4,6 +4,6 @@ After=multi-user.target
 [Service]
 Type=simple
 Restart=always
-ExecStart=/usr/bin/python3 /src/djangohelloyou/djangohelloyou.py runserver 0.0.0.0:8000  
+ExecStart=/usr/bin/python3 /src/djangohelloyou/frontend/djangohelloyou.py runserver 0.0.0.0:8000  
 [Install]
 WantedBy=multi-user.target
