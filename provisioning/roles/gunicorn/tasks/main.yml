@@ -19,8 +19,11 @@
 
 - name: Install bottle for Python 3.3 specifically, using the 'pip3.3' executable
   ansible.builtin.pip:
-    name: django==2.0 
+    name: {{item}} 
     executable: pip3
+  with_items:
+    - django==2.0
+    - django-compressor
 
 
 - name: Clone a repo with separate git directory
